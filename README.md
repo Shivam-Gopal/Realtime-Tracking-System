@@ -2,7 +2,7 @@
 
 This project allows you to track the real-time location of mobile devices using GPS and display the markers on a map. The location data is transmitted using WebSockets and displayed using Leaflet.js. The project works on both mobile and desktop devices, with each device's location displayed as a marker on the map.
 
-![Project Image]([/Realtime-Tracking-System/pictures/image.png](https://github.com/Shivam-Gopal/Realtime-Tracking-System/blob/main/pictures/image.png))
+![Project Image]([/Realtime-Tracking-System/pictures/image.png](https://github.com/Shivam-Gopal/Realtime-Tracking-System/blob/main/pictures/image.png)
 
 ## Features
 - Real-time location tracking using GPS.
